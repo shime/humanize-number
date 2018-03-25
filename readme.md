@@ -1,5 +1,7 @@
 # humanize-number
 
+[![Build Status](https://travis-ci.org/shime/humanize-number.svg?branch=master)](https://travis-ci.org/shime/humanize-number)
+
 Humanizes numbers.
 
 ## Installation
