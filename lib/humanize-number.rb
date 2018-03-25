@@ -1,4 +1,4 @@
-require "humanize_number/version"
+require "humanize-number/version"
 
 module HumanizeNumber
   THOUSAND = 1000
